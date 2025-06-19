@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=louizaa8&label=Profile%20views&color=0e75b6&style=flat" alt="LouizaA8" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=louizaa8" alt="louizaa8" /></a> </p>
+
 
 - 🔭 I’m currently working on [CLOTHING SWAP Application](https://github.com/LouizaA8/SwapApp2.0)
 
