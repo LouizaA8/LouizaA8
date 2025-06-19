@@ -22,12 +22,12 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LouizaA8&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="LouizaA8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=louizaa8&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="LouizaA8" />
 </p>
 
-<p align="left" ><img align="left" src="https://github-readme-stats.vercel.app/api?username=LouizaA8&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="LouizaA8" /></p>
+<p align="left" ><img align="left" src="https://github-readme-stats.vercel.app/api?username=louizaa8&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="LouizaA8" /></p>
 
-<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=LouizaA8&theme=nightowl" alt="GitHub Streak" /> </p>
+<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=louizaa8&theme=nightowl" alt="GitHub Streak" /> </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LouizaA8/LouizaA8/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LouizaA8/LouizaA8/output/pacman-contribution-graph.svg">
